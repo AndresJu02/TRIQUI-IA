@@ -1,0 +1,10 @@
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe.config
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.exe
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\bin\Debug\TresEnRaya.pdb
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.AssemblyReference.cache
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Form1.resources
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.Properties.Resources.resources
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.GenerateResource.cache
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.csproj.CoreCompileInputs.cache
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.exe
+D:\Music\Post_VideoTutorial_CSharp_TresEnRaya-master\TresEnRaya\TresEnRaya\obj\Debug\TresEnRaya.pdb
